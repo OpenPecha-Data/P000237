@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000237
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: RDI-SS-15
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-15
 web_metadata:
   title:
     en: Immaculate Speech:A Guide to the Mother and Child Presentations of the Great
